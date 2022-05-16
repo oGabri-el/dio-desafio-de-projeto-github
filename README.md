@@ -14,6 +14,7 @@ No momento obtive os seguintes **certificados** de cursos da DIO:
 - [Introdução ao Git e ao GitHub](https://hermes.digitalinnovation.one/certificates/C196F632.pdf)
 - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://hermes.digitalinnovation.one/certificates/F4963537.pdf)
 - [Dominando IDEs Java](https://hermes.digitalinnovation.one/certificates/E642CEEB.pdf)
+- [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://hermes.digitalinnovation.one/certificates/C1BDA6BF.pdf)
 
 ### Desafios de Projetos 👻
 
